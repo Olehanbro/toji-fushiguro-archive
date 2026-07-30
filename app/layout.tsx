@@ -16,13 +16,21 @@ export const metadata: Metadata = {
       "Нуль проклятої енергії. Абсолютне тіло. Досьє найнебезпечнішої аномалії світу джюджюцу.",
     locale: "uk_UA",
     type: "website",
-    images: [{ url: "/og.png", width: 1728, height: 908 }],
+    images: [
+      {
+        url: "https://otajo.jp/files/2023/03/3fd1c32e5124a9e4fcfb104636360ab8.jpg",
+        width: 1000,
+        height: 563,
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Тоджі Фушіґуро — Вбивця чаклунів",
     description: "Фан-архів персонажа «Магічної битви».",
-    images: ["/og.png"],
+    images: [
+      "https://otajo.jp/files/2023/03/3fd1c32e5124a9e4fcfb104636360ab8.jpg",
+    ],
   },
 };
 
