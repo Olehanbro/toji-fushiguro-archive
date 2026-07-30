@@ -148,7 +148,7 @@ a { color: inherit; text-decoration: none; }
   background:
     linear-gradient(90deg, #10110f 0%, rgba(16,17,15,.15) 35%, rgba(16,17,15,.05) 75%),
     linear-gradient(0deg, rgba(16,17,15,.65), transparent 45%),
-    url("/media/toji-d.jpg") 57% center / cover no-repeat;
+    url("https://otajo.jp/files/2023/03/3fd1c32e5124a9e4fcfb104636360ab8.jpg") 57% center / cover no-repeat;
   position: relative;
   filter: saturate(.7) contrast(1.12);
 }
@@ -336,7 +336,7 @@ h2 em {
   background:
     linear-gradient(90deg, transparent 55%, #302d29 100%),
     linear-gradient(0deg, rgba(48,45,41,.9), transparent 50%),
-    url("/media/toji-d.jpg") center / cover;
+    url("https://otajo.jp/files/2023/03/3fd1c32e5124a9e4fcfb104636360ab8.jpg") center / cover;
   filter: grayscale(1) contrast(1.25);
   opacity: .7;
 }
@@ -437,7 +437,7 @@ blockquote footer { font-size: 10px; letter-spacing: .2em; margin-top: 40px; col
   .ability-list article { grid-template-columns: 50px 1fr auto; padding: 28px 0; }
   .ability-list article p { grid-column: 2/4; margin: 0; }
   .quote-section { grid-template-columns: 1fr; min-height: 690px; position: relative; }
-  .quote-image { position: absolute; inset: 0; background: linear-gradient(0deg,#302d29 8%,transparent 90%), url("/media/toji-d.jpg") 62% center/cover; }
+  .quote-image { position: absolute; inset: 0; background: linear-gradient(0deg,#302d29 8%,transparent 90%), url("https://otajo.jp/files/2023/03/3fd1c32e5124a9e4fcfb104636360ab8.jpg") 62% center/cover; }
   blockquote { z-index: 1; align-self: end; padding: 70px 24px; }
   .weapon-list article { grid-template-columns: 40px 1fr; }
   .weapon-list p { grid-column: 2; }
